@@ -6,6 +6,7 @@
 # My own modifications
 
 **/09-data
+*.csv
 
 # User-specific files
 *.rsuser
